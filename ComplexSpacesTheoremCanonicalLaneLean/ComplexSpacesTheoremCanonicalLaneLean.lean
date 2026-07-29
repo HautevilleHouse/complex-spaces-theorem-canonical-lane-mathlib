@@ -1,0 +1,20 @@
+import ComplexSpacesTheoremCanonicalLaneLean.AdmissibleClass
+import ComplexSpacesTheoremCanonicalLaneLean.BridgeLemmas
+import ComplexSpacesTheoremCanonicalLaneLean.GateLemmas
+import ComplexSpacesTheoremCanonicalLaneLean.FinalTheorem
+import ComplexSpacesTheoremCanonicalLaneLean.CauchyTheory
+import ComplexSpacesTheoremCanonicalLaneLean.RiemannMapping
+import ComplexSpacesTheoremCanonicalLaneLean.AnalyticContinuation
+import ComplexSpacesTheoremCanonicalLaneLean.ValueDistribution
+
+namespace HautevilleHouse
+namespace ComplexSpacesTheoremCanonicalLaneLean
+
+-- Root module for Complex Spaces Theorem canonical lane package
+
+def sourceRepository : String := "complex-spaces-theorem-canonical-lane"
+
+def sourceDescription : String := "Complex Spaces Theorem"
+
+end ComplexSpacesTheoremCanonicalLaneLean
+end HautevilleHouse
